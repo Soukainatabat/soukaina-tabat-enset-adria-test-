@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Projet/config-service/Config-service.iml" filepath="$PROJECT_DIR$/../Projet/config-service/Config-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Projet/wallet-service/Customer-service.iml" filepath="$PROJECT_DIR$/../Projet/wallet-service/Customer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Projet/inventory-service/Inventory-service.iml" filepath="$PROJECT_DIR$/../Projet/inventory-service/Inventory-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/soukaina-tabat-enset-adria-test-.iml" filepath="$PROJECT_DIR$/.idea/soukaina-tabat-enset-adria-test-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Projet/wallet-service/wallet-service.iml" filepath="$PROJECT_DIR$/../Projet/wallet-service/wallet-service.iml" />
     </modules>
   </component>
 </project>
